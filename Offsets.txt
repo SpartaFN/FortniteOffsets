@@ -1,5 +1,5 @@
 --------------------------------------------------------
-UWorld = 0x9989C10
+UWorld = 0x998AC10
 OwningGameInstance = 0x180
 Levels = 0x138
 AActors = 0x98
@@ -31,7 +31,7 @@ AmmoCount = 0x974
 WeaponStatHandle = 0x810
 FireStartLoc = 0x878	
 ReloadTime = 0xFC	
-bAlreadySearched = 0xC41
+bAlreadySearched = 0xC61
 --------------------------------------------------------
 
 Join To Sparta Discord Server: https://discord.gg/Pn7fdvAtTm
