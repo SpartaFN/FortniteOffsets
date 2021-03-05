@@ -34,7 +34,7 @@ ReloadTime = 0xFC
 bAlreadySearched = 0xC61
 --------------------------------------------------------
 
-Dumped with IDA Pro By Cutypie#7260
+Dumped with IDA Pro By Cutypie#5994
 
 Join To Sparta Discord Server: https://discord.gg/Pn7fdvAtTm
 
